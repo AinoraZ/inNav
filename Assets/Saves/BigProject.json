@@ -1,0 +1,2270 @@
+{
+"Points" : [ 
+{
+    "pointName": "Point1",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -4.628377914428711,
+        6.99324369430542
+    ],
+    "connection": "",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point2",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        4.932432651519775,
+        1.2837839126586915
+    ],
+    "connection": "Point1",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point3",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -3.75,
+        -3.5472970008850099
+    ],
+    "connection": "Point2",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point4",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -4.0878376960754398,
+        1.62162184715271
+    ],
+    "connection": "Point3",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point5",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        4.391891956329346,
+        5.067567825317383
+    ],
+    "connection": "Point4",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point6",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -0.6081078052520752,
+        0.5405402183532715
+    ],
+    "connection": "Point5",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point7",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -4.0878376960754398,
+        1.62162184715271
+    ],
+    "connection": "Point6",
+    "snapPoint": "Point4"
+},
+{
+    "pointName": "Point8",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        4.932432651519775,
+        1.2837839126586915
+    ],
+    "connection": "Point6",
+    "snapPoint": "Point2"
+},
+{
+    "pointName": "Point9",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -3.75,
+        -3.5472970008850099
+    ],
+    "connection": "Point6",
+    "snapPoint": "Point3"
+},
+{
+    "pointName": "Point10",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -4.628377914428711,
+        6.99324369430542
+    ],
+    "connection": "Point6",
+    "snapPoint": "Point1"
+},
+{
+    "pointName": "Point11",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -13.520269393920899,
+        7.070945739746094
+    ],
+    "connection": "Point1",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point12",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -15.074323654174805,
+        14.375
+    ],
+    "connection": "Point11",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point13",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -2.6418912410736086,
+        16.783784866333009
+    ],
+    "connection": "Point12",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point14",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -25.864864349365236,
+        30.371620178222658
+    ],
+    "connection": "Point13",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point15",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -29.391889572143556,
+        2.351353406906128
+    ],
+    "connection": "Point14",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point16",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -15.871623039245606,
+        -13.128379821777344
+    ],
+    "connection": "Point15",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point17",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        7.837839126586914,
+        -24.493244171142579
+    ],
+    "connection": "Point16",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point18",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        22.53377914428711,
+        -5.094593048095703
+    ],
+    "connection": "Point17",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point19",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        23.121618270874025,
+        11.952699661254883
+    ],
+    "connection": "Point18",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point20",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        9.993246078491211,
+        33.702701568603519
+    ],
+    "connection": "Point19",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point21",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        27.628381729125978,
+        48.7905387878418
+    ],
+    "connection": "Point20",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point22",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        44.28377914428711,
+        25.472972869873048
+    ],
+    "connection": "Point21",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point23",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        47.810813903808597,
+        3.3310799598693849
+    ],
+    "connection": "Point22",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point24",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        46.24324417114258,
+        -15.087836265563965
+    ],
+    "connection": "Point23",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point25",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        40.952701568603519,
+        -13.324323654174805
+    ],
+    "connection": "Point24",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point26",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        40.952701568603519,
+        -10.581079483032227
+    ],
+    "connection": "Point25",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point27",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        41.3445930480957,
+        -7.25
+    ],
+    "connection": "Point26",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point28",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        41.148643493652347,
+        -4.898650169372559
+    ],
+    "connection": "Point27",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point29",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        40.952701568603519,
+        -2.939189910888672
+    ],
+    "connection": "Point28",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point30",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        40.75675582885742,
+        1.5675666332244874
+    ],
+    "connection": "Point29",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point31",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        40.168914794921878,
+        7.25
+    ],
+    "connection": "Point30",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point32",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        38.797298431396487,
+        11.756759643554688
+    ],
+    "connection": "Point31",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point33",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        35.85810852050781,
+        17.831079483032228
+    ],
+    "connection": "Point32",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point34",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        32.52702713012695,
+        24.885133743286134
+    ],
+    "connection": "Point33",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point35",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        30.371618270874025,
+        28.804054260253908
+    ],
+    "connection": "Point34",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point36",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        32.52702713012695,
+        31.939186096191408
+    ],
+    "connection": "Point35",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point37",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        37.03377914428711,
+        28.020273208618165
+    ],
+    "connection": "Point36",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point38",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        39.189186096191409,
+        22.92567253112793
+    ],
+    "connection": "Point37",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point39",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        39.581085205078128,
+        17.831079483032228
+    ],
+    "connection": "Point38",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point40",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        41.932430267333987,
+        12.736486434936524
+    ],
+    "connection": "Point39",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point41",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        43.5,
+        5.290539741516113
+    ],
+    "connection": "Point40",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point42",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        44.08783721923828,
+        -0.7837833166122437
+    ],
+    "connection": "Point41",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point43",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        43.30405044555664,
+        -6.0743231773376469
+    ],
+    "connection": "Point42",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point44",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        44.28377914428711,
+        -10.385136604309082
+    ],
+    "connection": "Point43",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point45",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        48.202701568603519,
+        -10.972972869873047
+    ],
+    "connection": "Point44",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point46",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        52.51351547241211,
+        -7.05405330657959
+    ],
+    "connection": "Point45",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point47",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        52.70945739746094,
+        -1.5675666332244874
+    ],
+    "connection": "Point46",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point48",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        52.51351547241211,
+        5.878379821777344
+    ],
+    "connection": "Point47",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point49",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        52.121620178222659,
+        14.89189338684082
+    ],
+    "connection": "Point48",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point50",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        50.94594955444336,
+        22.729726791381837
+    ],
+    "connection": "Point49",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point51",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        46.635135650634769,
+        29.0
+    ],
+    "connection": "Point50",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point52",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        43.5,
+        34.68243408203125
+    ],
+    "connection": "Point51",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point53",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        38.99324417114258,
+        40.75675964355469
+    ],
+    "connection": "Point52",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point54",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        35.46621322631836,
+        45.85135269165039
+    ],
+    "connection": "Point53",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point55",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -13.128376960754395,
+        50.16215896606445
+    ],
+    "connection": "Point54",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point56",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        5.2905426025390629,
+        28.020273208618165
+    ],
+    "connection": "Point55",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point57",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        25.864864349365236,
+        27.04054069519043
+    ],
+    "connection": "Point56",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point58",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        24.29729652404785,
+        38.797298431396487
+    ],
+    "connection": "Point57",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point59",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        5.878381252288818,
+        43.10810852050781
+    ],
+    "connection": "Point58",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point60",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        11.560813903808594,
+        12.344593048095704
+    ],
+    "connection": "Point59",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point61",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        29.391889572143556,
+        3.3310799598693849
+    ],
+    "connection": "Point60",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point62",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        30.567567825317384,
+        -19.79054069519043
+    ],
+    "connection": "Point61",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point63",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        18.614864349365236,
+        -22.7297306060791
+    ],
+    "connection": "Point62",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point64",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        17.04729652404785,
+        -31.54729652404785
+    ],
+    "connection": "Point63",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point65",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -1.7635127305984498,
+        -32.33108139038086
+    ],
+    "connection": "Point64",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point66",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -14.891889572143555,
+        -23.905406951904298
+    ],
+    "connection": "Point65",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point67",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -22.925674438476564,
+        -8.621620178222657
+    ],
+    "connection": "Point66",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point68",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -32.91891860961914,
+        -3.9189200401306154
+    ],
+    "connection": "Point67",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point69",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -35.85810470581055,
+        9.209460258483887
+    ],
+    "connection": "Point68",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point70",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -38.013511657714847,
+        23.31756591796875
+    ],
+    "connection": "Point69",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point71",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -37.033782958984378,
+        34.0945930480957
+    ],
+    "connection": "Point70",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point72",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -24.689189910888673,
+        23.905406951904298
+    ],
+    "connection": "Point71",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point73",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -24.101350784301759,
+        7.05405330657959
+    ],
+    "connection": "Point72",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point74",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -19.20270347595215,
+        -4.114863395690918
+    ],
+    "connection": "Point73",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point75",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -10.581080436706543,
+        -10.189189910888672
+    ],
+    "connection": "Point74",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point76",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -0.391889750957489,
+        -13.912163734436036
+    ],
+    "connection": "Point75",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point77",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        8.621618270874024,
+        -14.5
+    ],
+    "connection": "Point76",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point78",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        14.5,
+        -6.662163257598877
+    ],
+    "connection": "Point77",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point79",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        17.04729652404785,
+        0.5878400802612305
+    ],
+    "connection": "Point78",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point80",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        11.952703475952149,
+        7.64189338684082
+    ],
+    "connection": "Point79",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point81",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        3.331084966659546,
+        15.08784008026123
+    ],
+    "connection": "Point80",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point82",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -2.1554067134857179,
+        27.82432746887207
+    ],
+    "connection": "Point81",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point83",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -10.97297477722168,
+        36.445945739746097
+    ],
+    "connection": "Point82",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point84",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -20.182432174682618,
+        40.3648681640625
+    ],
+    "connection": "Point83",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point85",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -30.37162208557129,
+        38.99324035644531
+    ],
+    "connection": "Point84",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point86",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -31.155406951904298,
+        23.70945930480957
+    ],
+    "connection": "Point85",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point87",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -31.351350784301759,
+        11.364866256713868
+    ],
+    "connection": "Point86",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point88",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -24.493242263793947,
+        2.1554067134857179
+    ],
+    "connection": "Point87",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point89",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -40.952701568603519,
+        -6.85810661315918
+    ],
+    "connection": "Point88",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point90",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -26.844593048095704,
+        -20.378379821777345
+    ],
+    "connection": "Point89",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point91",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -12.73648738861084,
+        -39.3851318359375
+    ],
+    "connection": "Point90",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point92",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        8.425678253173829,
+        -43.10810852050781
+    ],
+    "connection": "Point91",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point93",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        23.905406951904298,
+        -37.42567443847656
+    ],
+    "connection": "Point92",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point94",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        32.52702713012695,
+        -29.0
+    ],
+    "connection": "Point93",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point95",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        35.27027130126953,
+        -17.6351375579834
+    ],
+    "connection": "Point94",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point96",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        34.878379821777347,
+        -5.094593048095703
+    ],
+    "connection": "Point95",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point97",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        33.310813903808597,
+        12.540539741516114
+    ],
+    "connection": "Point96",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point98",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        24.885135650634767,
+        20.57432746887207
+    ],
+    "connection": "Point97",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point99",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -25.864864349365236,
+        47.22297286987305
+    ],
+    "connection": "Point98",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point100",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -47.614864349365237,
+        45.6554069519043
+    ],
+    "connection": "Point99",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point101",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -46.83108139038086,
+        17.635133743286134
+    ],
+    "connection": "Point100",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point102",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -45.6554069519043,
+        -3.722973346710205
+    ],
+    "connection": "Point101",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point103",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -40.168914794921878,
+        -24.29729652404785
+    ],
+    "connection": "Point102",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point104",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -29.97972869873047,
+        -36.83784103393555
+    ],
+    "connection": "Point103",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point105",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -13.324326515197754,
+        -47.02702713012695
+    ],
+    "connection": "Point104",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point106",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        11.364864349365235,
+        -54.27702713012695
+    ],
+    "connection": "Point105",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point107",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        32.331085205078128,
+        -49.77027130126953
+    ],
+    "connection": "Point106",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point108",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        23.513517379760743,
+        -36.64189147949219
+    ],
+    "connection": "Point107",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point109",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        11.364864349365235,
+        -54.27702713012695
+    ],
+    "connection": "Point108",
+    "snapPoint": "Point106"
+},
+{
+    "pointName": "Point110",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        8.425678253173829,
+        -43.10810852050781
+    ],
+    "connection": "Point106",
+    "snapPoint": "Point92"
+},
+{
+    "pointName": "Point111",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -13.324326515197754,
+        -47.02702713012695
+    ],
+    "connection": "Point92",
+    "snapPoint": "Point105"
+},
+{
+    "pointName": "Point112",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -12.73648738861084,
+        -39.3851318359375
+    ],
+    "connection": "Point105",
+    "snapPoint": "Point91"
+},
+{
+    "pointName": "Point113",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -29.97972869873047,
+        -36.83784103393555
+    ],
+    "connection": "Point91",
+    "snapPoint": "Point104"
+},
+{
+    "pointName": "Point114",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -14.891889572143555,
+        -23.905406951904298
+    ],
+    "connection": "Point104",
+    "snapPoint": "Point66"
+},
+{
+    "pointName": "Point115",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -12.73648738861084,
+        -39.3851318359375
+    ],
+    "connection": "Point66",
+    "snapPoint": "Point91"
+},
+{
+    "pointName": "Point116",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -1.7635127305984498,
+        -32.33108139038086
+    ],
+    "connection": "Point91",
+    "snapPoint": "Point65"
+},
+{
+    "pointName": "Point117",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        8.425678253173829,
+        -43.10810852050781
+    ],
+    "connection": "Point65",
+    "snapPoint": "Point92"
+},
+{
+    "pointName": "Point118",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        17.04729652404785,
+        -31.54729652404785
+    ],
+    "connection": "Point92",
+    "snapPoint": "Point64"
+},
+{
+    "pointName": "Point119",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        23.905406951904298,
+        -37.42567443847656
+    ],
+    "connection": "Point64",
+    "snapPoint": "Point93"
+},
+{
+    "pointName": "Point120",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        30.567567825317384,
+        -19.79054069519043
+    ],
+    "connection": "Point93",
+    "snapPoint": "Point62"
+},
+{
+    "pointName": "Point121",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        32.52702713012695,
+        -29.0
+    ],
+    "connection": "Point62",
+    "snapPoint": "Point94"
+},
+{
+    "pointName": "Point122",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        18.614864349365236,
+        -22.7297306060791
+    ],
+    "connection": "Point94",
+    "snapPoint": "Point63"
+},
+{
+    "pointName": "Point123",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        7.837839126586914,
+        -24.493244171142579
+    ],
+    "connection": "Point63",
+    "snapPoint": "Point17"
+},
+{
+    "pointName": "Point124",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -14.891889572143555,
+        -23.905406951904298
+    ],
+    "connection": "Point17",
+    "snapPoint": "Point66"
+},
+{
+    "pointName": "Point125",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -15.871623039245606,
+        -13.128379821777344
+    ],
+    "connection": "Point66",
+    "snapPoint": "Point16"
+},
+{
+    "pointName": "Point126",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -1.7635127305984498,
+        -32.33108139038086
+    ],
+    "connection": "Point16",
+    "snapPoint": "Point65"
+},
+{
+    "pointName": "Point127",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        8.621618270874024,
+        -14.5
+    ],
+    "connection": "Point65",
+    "snapPoint": "Point77"
+},
+{
+    "pointName": "Point128",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -26.844593048095704,
+        -20.378379821777345
+    ],
+    "connection": "Point77",
+    "snapPoint": "Point90"
+},
+{
+    "pointName": "Point129",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -40.168914794921878,
+        -24.29729652404785
+    ],
+    "connection": "Point90",
+    "snapPoint": "Point103"
+},
+{
+    "pointName": "Point130",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -14.891889572143555,
+        -23.905406951904298
+    ],
+    "connection": "Point103",
+    "snapPoint": "Point66"
+},
+{
+    "pointName": "Point131",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -32.91891860961914,
+        -3.9189200401306154
+    ],
+    "connection": "Point66",
+    "snapPoint": "Point68"
+},
+{
+    "pointName": "Point132",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -45.6554069519043,
+        -3.722973346710205
+    ],
+    "connection": "Point68",
+    "snapPoint": "Point102"
+},
+{
+    "pointName": "Point133",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -40.952701568603519,
+        -6.85810661315918
+    ],
+    "connection": "Point102",
+    "snapPoint": "Point89"
+},
+{
+    "pointName": "Point134",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -35.85810470581055,
+        9.209460258483887
+    ],
+    "connection": "Point89",
+    "snapPoint": "Point69"
+},
+{
+    "pointName": "Point135",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -46.83108139038086,
+        17.635133743286134
+    ],
+    "connection": "Point69",
+    "snapPoint": "Point101"
+},
+{
+    "pointName": "Point136",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -38.013511657714847,
+        23.31756591796875
+    ],
+    "connection": "Point101",
+    "snapPoint": "Point70"
+},
+{
+    "pointName": "Point137",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -31.155406951904298,
+        23.70945930480957
+    ],
+    "connection": "Point70",
+    "snapPoint": "Point86"
+},
+{
+    "pointName": "Point138",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -35.85810470581055,
+        9.209460258483887
+    ],
+    "connection": "Point86",
+    "snapPoint": "Point69"
+},
+{
+    "pointName": "Point139",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -31.351350784301759,
+        11.364866256713868
+    ],
+    "connection": "Point69",
+    "snapPoint": "Point87"
+},
+{
+    "pointName": "Point140",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -19.20270347595215,
+        -4.114863395690918
+    ],
+    "connection": "Point87",
+    "snapPoint": "Point74"
+},
+{
+    "pointName": "Point141",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -15.871623039245606,
+        -13.128379821777344
+    ],
+    "connection": "Point74",
+    "snapPoint": "Point16"
+},
+{
+    "pointName": "Point142",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -10.581080436706543,
+        -10.189189910888672
+    ],
+    "connection": "Point16",
+    "snapPoint": "Point75"
+},
+{
+    "pointName": "Point143",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -1.7635127305984498,
+        -32.33108139038086
+    ],
+    "connection": "Point75",
+    "snapPoint": "Point65"
+},
+{
+    "pointName": "Point144",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        30.567567825317384,
+        -19.79054069519043
+    ],
+    "connection": "Point65",
+    "snapPoint": "Point62"
+},
+{
+    "pointName": "Point145",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        35.27027130126953,
+        -17.6351375579834
+    ],
+    "connection": "Point62",
+    "snapPoint": "Point95"
+},
+{
+    "pointName": "Point146",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        40.952701568603519,
+        -13.324323654174805
+    ],
+    "connection": "Point95",
+    "snapPoint": "Point25"
+},
+{
+    "pointName": "Point147",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        44.28377914428711,
+        -10.385136604309082
+    ],
+    "connection": "Point25",
+    "snapPoint": "Point44"
+},
+{
+    "pointName": "Point148",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        41.3445930480957,
+        -7.25
+    ],
+    "connection": "Point44",
+    "snapPoint": "Point27"
+},
+{
+    "pointName": "Point149",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        43.30405044555664,
+        -6.0743231773376469
+    ],
+    "connection": "Point27",
+    "snapPoint": "Point43"
+},
+{
+    "pointName": "Point150",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        40.75675582885742,
+        1.5675666332244874
+    ],
+    "connection": "Point43",
+    "snapPoint": "Point30"
+},
+{
+    "pointName": "Point151",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        43.5,
+        5.290539741516113
+    ],
+    "connection": "Point30",
+    "snapPoint": "Point41"
+},
+{
+    "pointName": "Point152",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        40.168914794921878,
+        7.25
+    ],
+    "connection": "Point41",
+    "snapPoint": "Point31"
+},
+{
+    "pointName": "Point153",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        41.3445930480957,
+        12.148646354675293
+    ],
+    "connection": "Point31",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point154",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        11.952703475952149,
+        7.64189338684082
+    ],
+    "connection": "Point153",
+    "snapPoint": "Point80"
+},
+{
+    "pointName": "Point155",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        12.344593048095704,
+        11.952699661254883
+    ],
+    "connection": "Point80",
+    "snapPoint": ""
+},
+{
+    "pointName": "Point157",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -15.074323654174805,
+        14.375
+    ],
+    "connection": "Point155",
+    "snapPoint": "Point12"
+},
+{
+    "pointName": "Point156",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -4.628377914428711,
+        6.99324369430542
+    ],
+    "connection": "Point12",
+    "snapPoint": "Point1"
+},
+{
+    "pointName": "Point158",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -2.6418912410736086,
+        16.783784866333009
+    ],
+    "connection": "Point1",
+    "snapPoint": "Point13"
+},
+{
+    "pointName": "Point159",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -24.101350784301759,
+        7.05405330657959
+    ],
+    "connection": "Point13",
+    "snapPoint": "Point73"
+},
+{
+    "pointName": "Point160",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -4.0878376960754398,
+        1.62162184715271
+    ],
+    "connection": "Point73",
+    "snapPoint": "Point4"
+},
+{
+    "pointName": "Point161",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -19.20270347595215,
+        -4.114863395690918
+    ],
+    "connection": "Point4",
+    "snapPoint": "Point74"
+},
+{
+    "pointName": "Point162",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -3.75,
+        -3.5472970008850099
+    ],
+    "connection": "Point74",
+    "snapPoint": "Point3"
+},
+{
+    "pointName": "Point163",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -10.581080436706543,
+        -10.189189910888672
+    ],
+    "connection": "Point3",
+    "snapPoint": "Point75"
+},
+{
+    "pointName": "Point164",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        14.5,
+        -6.662163257598877
+    ],
+    "connection": "Point75",
+    "snapPoint": "Point78"
+},
+{
+    "pointName": "Point165",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -0.391889750957489,
+        -13.912163734436036
+    ],
+    "connection": "Point78",
+    "snapPoint": "Point76"
+},
+{
+    "pointName": "Point166",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        17.04729652404785,
+        0.5878400802612305
+    ],
+    "connection": "Point76",
+    "snapPoint": "Point79"
+},
+{
+    "pointName": "Point167",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        4.932432651519775,
+        1.2837839126586915
+    ],
+    "connection": "Point79",
+    "snapPoint": "Point2"
+},
+{
+    "pointName": "Point168",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        11.952703475952149,
+        7.64189338684082
+    ],
+    "connection": "Point2",
+    "snapPoint": "Point80"
+},
+{
+    "pointName": "Point169",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        4.391891956329346,
+        5.067567825317383
+    ],
+    "connection": "Point80",
+    "snapPoint": "Point5"
+},
+{
+    "pointName": "Point170",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        22.53377914428711,
+        -5.094593048095703
+    ],
+    "connection": "Point5",
+    "snapPoint": "Point18"
+},
+{
+    "pointName": "Point171",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -3.75,
+        -3.5472970008850099
+    ],
+    "connection": "Point18",
+    "snapPoint": "Point3"
+},
+{
+    "pointName": "Point172",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        30.567567825317384,
+        -19.79054069519043
+    ],
+    "connection": "Point3",
+    "snapPoint": "Point62"
+},
+{
+    "pointName": "Point173",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        22.53377914428711,
+        -5.094593048095703
+    ],
+    "connection": "Point62",
+    "snapPoint": "Point18"
+},
+{
+    "pointName": "Point174",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        34.878379821777347,
+        -5.094593048095703
+    ],
+    "connection": "Point18",
+    "snapPoint": "Point96"
+},
+{
+    "pointName": "Point175",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        29.391889572143556,
+        3.3310799598693849
+    ],
+    "connection": "Point96",
+    "snapPoint": "Point61"
+},
+{
+    "pointName": "Point176",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        24.885135650634767,
+        20.57432746887207
+    ],
+    "connection": "Point61",
+    "snapPoint": "Point98"
+},
+{
+    "pointName": "Point177",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        3.331084966659546,
+        15.08784008026123
+    ],
+    "connection": "Point98",
+    "snapPoint": "Point81"
+},
+{
+    "pointName": "Point178",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        5.2905426025390629,
+        28.020273208618165
+    ],
+    "connection": "Point81",
+    "snapPoint": "Point56"
+},
+{
+    "pointName": "Point179",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -2.1554067134857179,
+        27.82432746887207
+    ],
+    "connection": "Point56",
+    "snapPoint": "Point82"
+},
+{
+    "pointName": "Point180",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        9.993246078491211,
+        33.702701568603519
+    ],
+    "connection": "Point82",
+    "snapPoint": "Point20"
+},
+{
+    "pointName": "Point181",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -10.97297477722168,
+        36.445945739746097
+    ],
+    "connection": "Point20",
+    "snapPoint": "Point83"
+},
+{
+    "pointName": "Point182",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        5.878381252288818,
+        43.10810852050781
+    ],
+    "connection": "Point83",
+    "snapPoint": "Point59"
+},
+{
+    "pointName": "Point183",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -25.864864349365236,
+        30.371620178222658
+    ],
+    "connection": "Point59",
+    "snapPoint": "Point14"
+},
+{
+    "pointName": "Point184",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -2.1554067134857179,
+        27.82432746887207
+    ],
+    "connection": "Point14",
+    "snapPoint": "Point82"
+},
+{
+    "pointName": "Point185",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -2.6418912410736086,
+        16.783784866333009
+    ],
+    "connection": "Point82",
+    "snapPoint": "Point13"
+},
+{
+    "pointName": "Point186",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        8.425678253173829,
+        -43.10810852050781
+    ],
+    "connection": "Point13",
+    "snapPoint": "Point92"
+},
+{
+    "pointName": "Point187",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -40.952701568603519,
+        -6.85810661315918
+    ],
+    "connection": "Point92",
+    "snapPoint": "Point89"
+},
+{
+    "pointName": "Point188",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -24.689189910888673,
+        23.905406951904298
+    ],
+    "connection": "Point89",
+    "snapPoint": "Point72"
+},
+{
+    "pointName": "Point189",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -2.1554067134857179,
+        27.82432746887207
+    ],
+    "connection": "Point72",
+    "snapPoint": "Point82"
+},
+{
+    "pointName": "Point190",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -13.520269393920899,
+        7.070945739746094
+    ],
+    "connection": "Point82",
+    "snapPoint": "Point11"
+},
+{
+    "pointName": "Point191",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        32.52702713012695,
+        24.885133743286134
+    ],
+    "connection": "Point11",
+    "snapPoint": "Point34"
+},
+{
+    "pointName": "Point192",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        46.635135650634769,
+        29.0
+    ],
+    "connection": "Point34",
+    "snapPoint": "Point51"
+},
+{
+    "pointName": "Point193",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        52.121620178222659,
+        14.89189338684082
+    ],
+    "connection": "Point51",
+    "snapPoint": "Point49"
+},
+{
+    "pointName": "Point194",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        47.810813903808597,
+        3.3310799598693849
+    ],
+    "connection": "Point49",
+    "snapPoint": "Point23"
+},
+{
+    "pointName": "Point195",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        50.94594955444336,
+        22.729726791381837
+    ],
+    "connection": "Point23",
+    "snapPoint": "Point50"
+},
+{
+    "pointName": "Point196",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        44.28377914428711,
+        25.472972869873048
+    ],
+    "connection": "Point50",
+    "snapPoint": "Point22"
+},
+{
+    "pointName": "Point197",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        52.70945739746094,
+        -1.5675666332244874
+    ],
+    "connection": "Point22",
+    "snapPoint": "Point47"
+},
+{
+    "pointName": "Point198",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        48.202701568603519,
+        -10.972972869873047
+    ],
+    "connection": "Point47",
+    "snapPoint": "Point45"
+},
+{
+    "pointName": "Point199",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        32.331085205078128,
+        -49.77027130126953
+    ],
+    "connection": "Point45",
+    "snapPoint": "Point107"
+},
+{
+    "pointName": "Point200",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -12.73648738861084,
+        -39.3851318359375
+    ],
+    "connection": "Point107",
+    "snapPoint": "Point91"
+},
+{
+    "pointName": "Point201",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -40.952701568603519,
+        -6.85810661315918
+    ],
+    "connection": "Point91",
+    "snapPoint": "Point89"
+},
+{
+    "pointName": "Point202",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -38.013511657714847,
+        23.31756591796875
+    ],
+    "connection": "Point89",
+    "snapPoint": "Point70"
+},
+{
+    "pointName": "Point203",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -47.614864349365237,
+        45.6554069519043
+    ],
+    "connection": "Point70",
+    "snapPoint": "Point100"
+},
+{
+    "pointName": "Point204",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        -20.182432174682618,
+        40.3648681640625
+    ],
+    "connection": "Point100",
+    "snapPoint": "Point84"
+},
+{
+    "pointName": "Point205",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        7.837839126586914,
+        -24.493244171142579
+    ],
+    "connection": "Point84",
+    "snapPoint": "Point17"
+},
+{
+    "pointName": "Point206",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        3.5270254611968996,
+        14.30405330657959
+    ],
+    "connection": "Point17",
+    "snapPoint": ""
+}
+]
+}

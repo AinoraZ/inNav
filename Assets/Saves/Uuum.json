@@ -1,0 +1,15 @@
+{
+"Points" : [ 
+{
+    "pointName": "Point1",
+    "teacher": "",
+    "lesson": "",
+    "position": [
+        1.0,
+        2.0
+    ],
+    "connection": "",
+    "snapPoint": ""
+}
+]
+}

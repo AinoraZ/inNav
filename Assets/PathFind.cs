@@ -27,31 +27,37 @@ public class PathFind : MonoBehaviour {
     float minimumPath = 9999999999f;
 
 	IEnumerator Calculate(GameObject start, GameObject end) {
-		yield return new WaitForEndOfFrame();
-		for (int x = 0; x < uListSize(start.GetComponent<PointInfo>().connections); x++) {
-            float dist = 0f;
-			if (start.GetComponent<PointInfo>().connections[x] != end) {
-                dist += Vector2.Distance(start.transform.position, start.GetComponent<PointInfo>().connections[x].transform.position);
-                if (dist < minimumPath)
-                {
-                    path.Add(start.GetComponent<PointInfo>().connections[x]);
-                    StartCoroutine(Calculate(start.GetComponent<PointInfo>().connections[x], end));
-                    path.Remove(start.GetComponent<PointInfo>().connections[x]);
-                }
-                dist -= Vector2.Distance(start.transform.position, start.GetComponent<PointInfo>().connections[x].transform.position);
-            }
-			else {
-                dist += Vector2.Distance(start.transform.position, start.GetComponent<PointInfo>().connections[x].transform.position);
-                if (dist < minimumPath) {
-					minimumPath = dist;
-                    path.Add(start.GetComponent<PointInfo>().connections[x]);
-                    minPath = new List<GameObject>(path);
-                    path.Remove(start.GetComponent<PointInfo>().connections[x]);
-                }
-				dist -= Vector2.Distance(start.transform.position, start.GetComponent<PointInfo>().connections[x].transform.position);
+		if (minPath == null)
+		{
+			yield return new WaitForEndOfFrame();
+			for (int x = 0; x < uListSize(start.GetComponent<PointInfo>().connections); x++)
+			{
+				float dist = 0f;
+				if (start.GetComponent<PointInfo>().connections[x] != end)
+				{
+					dist += Vector2.Distance(start.transform.position, start.GetComponent<PointInfo>().connections[x].transform.position);
+					if (dist < minimumPath)
+					{
+						path.Add(start.GetComponent<PointInfo>().connections[x]);
+						StartCoroutine(Calculate(start.GetComponent<PointInfo>().connections[x], end));
+						path.Remove(start.GetComponent<PointInfo>().connections[x]);
+					}
+					dist -= Vector2.Distance(start.transform.position, start.GetComponent<PointInfo>().connections[x].transform.position);
+				}
+				else {
+					dist += Vector2.Distance(start.transform.position, start.GetComponent<PointInfo>().connections[x].transform.position);
+					if (dist < minimumPath)
+					{
+						minimumPath = dist;
+						path.Add(start.GetComponent<PointInfo>().connections[x]);
+						minPath = new List<GameObject>(path);
+						path.Remove(start.GetComponent<PointInfo>().connections[x]);
+					}
+					dist -= Vector2.Distance(start.transform.position, start.GetComponent<PointInfo>().connections[x].transform.position);
+				}
 			}
+			Debug.Log(minPath);
 		}
-		Debug.Log(minPath);
 	}
 
 	private int uListSize(List<GameObject> points) {
